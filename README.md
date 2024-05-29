@@ -17,8 +17,8 @@
 
 <p align="center">
   <em>
-    Este soy YO, Jermin Vasquez, un <b>estudiante de último año</b> de <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar College of Engineering & Technology</b>, Amritsar</a>. <br>
-    Un incipiente <b>Desarrollador de Software Full-Stack</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>Entusiasta de la Programación Competitiva</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
+    Este soy YO, Jermin Vasquez, un <b>estudiante de último año</b> de <a href="https://www.espoch.edu.ec/"> <b>Escuela Superior Politécnica de Chimborazo</a>. <br>
+    Un <b>Desarrollador de Software /b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>Entusiasta de la Programación Competitiva</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
     con la idea de <b>mejorarse</b> a sí mismo y quiere una <b>plataforma</b> para 
     <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">y 
     <b>sobresalir</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -31,24 +31,19 @@
 <img align="right" width=300px alt="Unicornio" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de Cosas Personales...***
-
-✔ Pronombres: ***Él/Su*** o ***TeamMaker***😉 <br>
-✔ Actualmente estoy Desarrollando **Paycron** Pasarela de Pago **@Plaxonic**<br>
+ <br>
+✔ Actualmente estoy Desarrollando **MedicalGob** Sistema de gestión de Precio Bumper y Medicamentos para el Área de Salud Pública **@jermin.exe**<br>
 ✔ Actualmente estoy aprendiendo **ReactJS** y **NodeJS**<br>
 ✔ Estoy buscando colaborar en cualquier **contribución de Código Abierto**<br>
-✔ Estoy buscando ayuda para aprender **Sensores Remotos**<br>
-✔ Regularmente escribo artículos en [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ Suelo escribir código en [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
+✔ Estoy buscando ayuda para aprender **Bootstrap**<br>
 ✔ Pregúntame cualquier cosa, estoy feliz de ayudar, ¡solo si está en mis manos!😉<br>
 ✔ Dato curioso: *En momentos de estrés al programar, suelo estar medio dormido*<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes y Herramientas que Conozco...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes y Herramientas que estoy en Aprendizaje...***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
@@ -57,7 +52,6 @@
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
