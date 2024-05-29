@@ -4,7 +4,7 @@
 <hr> 
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Jermin Vasquez </h1>
-<h3 align="center"> Estudiante de Ingeniería de Software | ESPOCH | Entusiasta del Análisis de Datos</h3>
+<h3 align="center"> Estudiante de Ingeniería de Software | ESPOCH | Entusiasta del Análisis de Desarrollo de Software</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 <p align="center">
   <em>
     Este soy YO, Jermin Vasquez, un <b>estudiante de último año</b> de <a href="https://www.espoch.edu.ec/"> <b>Escuela Superior Politécnica de Chimborazo</a>. <br>
-    Un <b>Desarrollador de Software /b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>Entusiasta de la Programación Competitiva</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
+    Un <b>Desarrollador de Software </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>Entusiasta de la Programación Competitiva</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
     con la idea de <b>mejorarse</b> a sí mismo y quiere una <b>plataforma</b> para 
     <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">y 
     <b>sobresalir</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
