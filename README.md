@@ -5,8 +5,9 @@
 <h4 align="center"><b>"Hablar es barato. Muéstrame el código"</b></h4>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/JerminVasquez" />
+    <img align="center" alt="visitors" src="https://counter6.optistats.ovh/private/contadorvisitasgratis.php?c=s7e495rqp76efxl1uatrx1j8q63lxn2d" />
 </p>
+
 
 <p align="center">
   <br>
