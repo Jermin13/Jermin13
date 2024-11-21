@@ -21,7 +21,7 @@
 
 ### Estudiante de Ingeniería de Software en la ESPOCH
 
-- 🔭 Actualmente desarrollando el sistema **MedicalGob** para la gestión de medicamentos en salud pública.
+- 🔭 Actualmente desarrollando el sistema **Medical** para la gestión de medicamentos en salud pública.
 - 🌱 Aprendiendo **ReactJS** y **NodeJS**.
 - 👯 Buscando colaborar en proyectos de **Código Abierto**.
 - 🥅 Objetivo 2024: Contribuir más a proyectos de código abierto.
