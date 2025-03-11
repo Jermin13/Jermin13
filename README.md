@@ -21,10 +21,10 @@
 
 ### Estudiante de Ingeniería de Software en la ESPOCH
 
-- 🔭 Actualmente desarrollando el sistema **Medical** para la gestión de medicamentos en salud pública.
+- 🔭 Actualmente desarrollando el sistema **MediAgenda** para la gestión de medicamentos en salud pública.
 - 🌱 Aprendiendo **ReactJS** y **NodeJS**.
 - 👯 Buscando colaborar en proyectos de **Código Abierto**.
-- 🥅 Objetivo 2024: Contribuir más a proyectos de código abierto.
+- 🥅 Objetivo 2025: Contribuir más a proyectos de código abierto.
 - 💬 ¡Pregúntame cualquier cosa, estaré encantado de ayudar si está en mis manos! 😉
 - ⚡ Dato curioso: En momentos de estrés al programar, suelo estar medio dormido.
 
