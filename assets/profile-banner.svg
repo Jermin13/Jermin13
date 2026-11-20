@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="326" viewBox="0 0 1040 326" role="img" aria-labelledby="title desc">
+  <title id="title">Jermin Vasquez</title>
+  <desc id="desc">Banner oscuro inspirado en Matrix, con código verde y un símbolo de terminal.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#07121b"/>
+      <stop offset=".7" stop-color="#071711"/>
+      <stop offset="1" stop-color="#0d2b1c"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#21c870" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#21c870" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="border" x2="1" y2="1">
+      <stop stop-color="#314451"/>
+      <stop offset=".6" stop-color="#17322a"/>
+      <stop offset="1" stop-color="#489771"/>
+    </linearGradient>
+    <linearGradient id="line">
+      <stop stop-color="#7af5a6"/>
+      <stop offset="1" stop-color="#39adf2"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#91e3ac" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1038" height="324" rx="25"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="1" y="1" width="1038" height="324" fill="url(#background)"/>
+    <ellipse cx="878" cy="183" rx="280" ry="224" fill="url(#glow)"/>
+    <path d="M658 1H1039V325H593Z" fill="url(#grid)"/>
+    <path d="M658 1L593 325" fill="none" stroke="#7febad" stroke-opacity=".15"/>
+
+    <g font-family="Consolas, 'Liberation Mono', monospace" font-size="13">
+    <text x="727" y="62" fill="#4ade80" opacity="0.27"><tspan x="727" dy="0">0</tspan><tspan x="727" dy="19">1</tspan><tspan x="727" dy="19">0</tspan><tspan x="727" dy="19">1</tspan><tspan x="727" dy="19">1</tspan><tspan x="727" dy="19">0</tspan><tspan x="727" dy="19">0</tspan><tspan x="727" dy="19">1</tspan></text>
+    <text x="753" y="22" fill="#4ade80" opacity="0.43"><tspan x="753" dy="0">1</tspan><tspan x="753" dy="19">1</tspan><tspan x="753" dy="19">0</tspan><tspan x="753" dy="19">0</tspan><tspan x="753" dy="19">1</tspan><tspan x="753" dy="19">0</tspan><tspan x="753" dy="19">1</tspan><tspan x="753" dy="19">0</tspan><tspan x="753" dy="19">0</tspan><tspan x="753" dy="19">1</tspan><tspan x="753" dy="19">1</tspan><tspan x="753" dy="19">0</tspan></text>
+    <text x="779" y="72" fill="#4ade80" opacity="0.3"><tspan x="779" dy="0">1</tspan><tspan x="779" dy="19">0</tspan><tspan x="779" dy="19">0</tspan><tspan x="779" dy="19">1</tspan><tspan x="779" dy="19">0</tspan><tspan x="779" dy="19">1</tspan><tspan x="779" dy="19">1</tspan><tspan x="779" dy="19">0</tspan><tspan x="779" dy="19">1</tspan><tspan x="779" dy="19">0</tspan></text>
+    <text x="805" y="48" fill="#86efac" opacity="0.43"><tspan x="805" dy="0">0</tspan><tspan x="805" dy="19">1</tspan><tspan x="805" dy="19">1</tspan><tspan x="805" dy="19">0</tspan><tspan x="805" dy="19">0</tspan><tspan x="805" dy="19">0</tspan><tspan x="805" dy="19">1</tspan><tspan x="805" dy="19">1</tspan><tspan x="805" dy="19">0</tspan><tspan x="805" dy="19">1</tspan><tspan x="805" dy="19">0</tspan><tspan x="805" dy="19">1</tspan></text>
+    <text x="831" y="88" fill="#4ade80" opacity="0.23"><tspan x="831" dy="0">1</tspan><tspan x="831" dy="19">1</tspan><tspan x="831" dy="19">0</tspan><tspan x="831" dy="19">1</tspan><tspan x="831" dy="19">0</tspan><tspan x="831" dy="19">0</tspan><tspan x="831" dy="19">1</tspan><tspan x="831" dy="19">0</tspan><tspan x="831" dy="19">1</tspan></text>
+    <text x="857" y="20" fill="#4ade80" opacity="0.4"><tspan x="857" dy="0">0</tspan><tspan x="857" dy="19">1</tspan><tspan x="857" dy="19">0</tspan><tspan x="857" dy="19">1</tspan><tspan x="857" dy="19">1</tspan><tspan x="857" dy="19">0</tspan><tspan x="857" dy="19">1</tspan><tspan x="857" dy="19">0</tspan><tspan x="857" dy="19">0</tspan><tspan x="857" dy="19">1</tspan><tspan x="857" dy="19">0</tspan><tspan x="857" dy="19">0</tspan><tspan x="857" dy="19">1</tspan><tspan x="857" dy="19">1</tspan></text>
+    <text x="883" y="67" fill="#86efac" opacity="0.46"><tspan x="883" dy="0">0</tspan><tspan x="883" dy="19">0</tspan><tspan x="883" dy="19">1</tspan><tspan x="883" dy="19">1</tspan><tspan x="883" dy="19">0</tspan><tspan x="883" dy="19">1</tspan><tspan x="883" dy="19">1</tspan><tspan x="883" dy="19">0</tspan><tspan x="883" dy="19">1</tspan><tspan x="883" dy="19">1</tspan><tspan x="883" dy="19">0</tspan></text>
+    <text x="909" y="44" fill="#4ade80" opacity="0.29"><tspan x="909" dy="0">1</tspan><tspan x="909" dy="19">0</tspan><tspan x="909" dy="19">1</tspan><tspan x="909" dy="19">0</tspan><tspan x="909" dy="19">0</tspan><tspan x="909" dy="19">1</tspan><tspan x="909" dy="19">0</tspan><tspan x="909" dy="19">1</tspan><tspan x="909" dy="19">1</tspan><tspan x="909" dy="19">1</tspan><tspan x="909" dy="19">0</tspan><tspan x="909" dy="19">0</tspan></text>
+    <text x="935" y="83" fill="#86efac" opacity="0.43"><tspan x="935" dy="0">0</tspan><tspan x="935" dy="19">1</tspan><tspan x="935" dy="19">1</tspan><tspan x="935" dy="19">0</tspan><tspan x="935" dy="19">0</tspan><tspan x="935" dy="19">1</tspan><tspan x="935" dy="19">0</tspan><tspan x="935" dy="19">1</tspan><tspan x="935" dy="19">0</tspan><tspan x="935" dy="19">1</tspan><tspan x="935" dy="19">0</tspan></text>
+    <text x="961" y="18" fill="#4ade80" opacity="0.38"><tspan x="961" dy="0">1</tspan><tspan x="961" dy="19">1</tspan><tspan x="961" dy="19">0</tspan><tspan x="961" dy="19">1</tspan><tspan x="961" dy="19">0</tspan><tspan x="961" dy="19">1</tspan><tspan x="961" dy="19">1</tspan><tspan x="961" dy="19">0</tspan><tspan x="961" dy="19">1</tspan><tspan x="961" dy="19">0</tspan><tspan x="961" dy="19">0</tspan><tspan x="961" dy="19">0</tspan><tspan x="961" dy="19">1</tspan><tspan x="961" dy="19">0</tspan><tspan x="961" dy="19">1</tspan></text>
+    <text x="987" y="51" fill="#4ade80" opacity="0.34"><tspan x="987" dy="0">0</tspan><tspan x="987" dy="19">0</tspan><tspan x="987" dy="19">1</tspan><tspan x="987" dy="19">1</tspan><tspan x="987" dy="19">0</tspan><tspan x="987" dy="19">1</tspan><tspan x="987" dy="19">0</tspan><tspan x="987" dy="19">1</tspan><tspan x="987" dy="19">0</tspan><tspan x="987" dy="19">0</tspan><tspan x="987" dy="19">1</tspan><tspan x="987" dy="19">1</tspan><tspan x="987" dy="19">1</tspan></text>
+    <text x="1013" y="73" fill="#4ade80" opacity="0.24"><tspan x="1013" dy="0">1</tspan><tspan x="1013" dy="19">0</tspan><tspan x="1013" dy="19">1</tspan><tspan x="1013" dy="19">1</tspan><tspan x="1013" dy="19">0</tspan><tspan x="1013" dy="19">1</tspan><tspan x="1013" dy="19">0</tspan><tspan x="1013" dy="19">1</tspan><tspan x="1013" dy="19">0</tspan><tspan x="1013" dy="19">1</tspan><tspan x="1013" dy="19">1</tspan><tspan x="1013" dy="19">0</tspan></text>
+    <text x="701" y="87" fill="#4ade80" opacity="0.22"><tspan x="701" dy="0">0</tspan><tspan x="701" dy="19">1</tspan><tspan x="701" dy="19">0</tspan><tspan x="701" dy="19">1</tspan><tspan x="701" dy="19">0</tspan><tspan x="701" dy="19">1</tspan><tspan x="701" dy="19">0</tspan><tspan x="701" dy="19">1</tspan></text>
+    </g>
+
+    <g transform="translate(854 163)">
+      <path d="M0-92L80-46V46L0 92L-80 46V-46Z" fill="#0b2119" fill-opacity=".9" stroke="#94fac0" stroke-opacity=".55" stroke-width="2"/>
+      <path d="M0-72L62-36V36L0 72L-62 36V-36Z" fill="none" stroke="#77edaa" stroke-opacity=".19" stroke-dasharray="3 5"/>
+      <path d="M-29-19L-6 0L-29 19M6 20H32" fill="none" stroke="#8af8b5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cy="-92" r="4" fill="#9cfbc1"/>
+      <circle cy="92" r="4" fill="#9cfbc1"/>
+    </g>
+
+    <path d="M1 54H1039" stroke="#637e77" stroke-opacity=".33"/>
+    <circle cx="33" cy="28" r="4" fill="#77f0a7"/>
+    <circle cx="48" cy="28" r="4" fill="#568978"/>
+    <circle cx="63" cy="28" r="4" fill="#3c6259"/>
+    <text x="82" y="33" fill="#a4bdb5" font-family="Consolas, 'Liberation Mono', monospace" font-size="15">github.com/Jermin13</text>
+
+    <text x="50" y="129" fill="#8bf7b2" font-family="Consolas, 'Liberation Mono', monospace" font-size="21" letter-spacing="2">HOLA, SOY</text>
+    <text x="46" y="204" fill="#f1fff8" font-family="Arial, 'Liberation Sans', sans-serif" font-size="75" font-weight="700" letter-spacing="-3">Jermin Vasquez</text>
+    <rect x="50" y="247" width="74" height="4" rx="2" fill="url(#line)"/>
+    <text x="50" y="287" fill="#bbd8cc" font-family="Consolas, 'Liberation Mono', monospace" font-size="23">Ingeniero de software · ESPOCH</text>
+  </g>
+  <rect x="1" y="1" width="1038" height="324" rx="25" fill="none" stroke="url(#border)" stroke-width="2"/>
+</svg>
